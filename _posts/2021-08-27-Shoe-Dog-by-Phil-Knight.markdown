@@ -38,21 +38,21 @@ The book is inspiring at every page and stands as a testament to the idea that i
 
 ## Favorite quotes
 
-> Like it or not, life is a game.
->
-> Whatever pleasures or gains you derive from the act of running, you must find them within. It’s all in how you frame it, how you sell it to yourself.
->
-> Let everyone else call your idea crazy . . . just keep going. Don’t stop. Don’t even think about stopping until you get there, and don’t give much thought to where “there” is. Whatever comes, just don’t stop.
->
-> People, sensing my belief, wanted some of that belief for themselves.
->
-> Fight not to win, but to avoid losing. A surefire losing strategy.
->
-> War is the most extreme of conditions. But business has its warlike parallels.
->
-> Starting my own business was the only thing that made life’s other risks—marriage, Vegas, alligator wrestling—seem like sure things.
->
-> And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn’t mean stopping. Don’t ever stop.
->
-> Have faith in yourself, but also have faith in faith. Not faith as others define it. Faith as you define it. Faith as faith defines itself in your heart.
+- Like it or not, life is a game.
+
+- Whatever pleasures or gains you derive from the act of running, you must find them within. It’s all in how you frame it, how you sell it to yourself.
+
+- Let everyone else call your idea crazy . . . just keep going. Don’t stop. Don’t even think about stopping until you get there, and don’t give much thought to where “there” is. Whatever comes, just don’t stop.
+
+- People, sensing my belief, wanted some of that belief for themselves.
+
+- Fight not to win, but to avoid losing. A surefire losing strategy.
+
+- War is the most extreme of conditions. But business has its warlike parallels.
+
+- Starting my own business was the only thing that made life’s other risks—marriage, Vegas, alligator wrestling—seem like sure things.
+
+- And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn’t mean stopping. Don’t ever stop.
+
+- Have faith in yourself, but also have faith in faith. Not faith as others define it. Faith as you define it. Faith as faith defines itself in your heart.
 
