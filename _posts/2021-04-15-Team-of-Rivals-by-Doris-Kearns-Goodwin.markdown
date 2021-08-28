@@ -24,7 +24,7 @@ Abraham was a natural storyteller, who could spellbind people with anecdotes and
 </p>
 
 <p>
-Lincoln kept his enemies closer long before Godfather said so in the Mario Puzo novel. A shrewd politician, he knew that to deliver a full and stable presidential term he would have to take everyone along i.e., factions that hated him and factions that hated each other. Not just for his term, but to achieve victory in the civil war as well. Lincoln’s way of dealing with his adversaries like he does with Chase’s resignations showcases his astute political acumen. Starting as an underdog in the presidential nomination race, with his ears on the ground, fair luck and clever managerial decisions made him the republican presidential nominee, and also shows who’s boss during his term.
+Lincoln kept his enemies closer long before Godfather said so in the Mario Puzo novel. A shrewd politician, he knew that to deliver a full and stable presidential term he would have to take everyone along i.e., factions that hated him and factions that hated each other. Not just for his term, but to achieve victory in the civil war as well. Lincoln’s way of dealing with his adversaries like he does with Chase’s resignations showcases his astute political acumen. Started as an underdog in the presidential nomination race, his ears on the ground, fair luck and clever managerial decisions made him the republican presidential nominee. Widely believed that he would be a week president, he shows everyone who's boss.
 </p>
 
 <p>
