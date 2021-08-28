@@ -20,7 +20,7 @@ Little is written about Lincoln’s childhood, but whatever is, gives a glimpse 
 </p>
 
 <p>
-Abraham was a natural storyteller, who could spellbind people with anecdotes and the analogies he would employ to make his point. He case about America being the first experiment of its kind i.e., a democracy hits home. His interpretation of the Declaration of Independence and his conviction in it was deep and centuries ahead of their time. His emphasis on ‘all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness’ and his view the a free labour market would help individuals gain ‘upward mobility’ on the economic ladder form the bedrock of his policies. It is incredibly hard to believe that a white president in the late 19th century would risk the disintegration of the union to end slavery.
+Abraham was a natural storyteller, who could spellbind people with anecdotes and the analogies he would employ to make his point. His case about America being the first experiment of its kind i.e., a democracy hits home. His interpretation of the Declaration of Independence and his conviction in it was deep and centuries ahead of their time. His emphasis on 'all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness' and his view that a free labour market would help individuals gain 'upward mobility' on the economic ladder form the bedrock of his policies. It is incredibly hard to believe that a white president in the late 19th century would risk the disintegration of the union to end slavery.
 </p>
 
 <p>
