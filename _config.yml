@@ -28,7 +28,7 @@ twitter_username: HydrogenHydride
 github_username:  GauravWaghmare
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: minima
 plugins:
   - jekyll-feed
 
