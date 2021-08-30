@@ -37,14 +37,14 @@ The more than 900 pages long book doesn’t feel long at all, and reads more lik
 
 ## Favorite quotes
 
-- > I know the bulldog will not bite. You know he will not bite, but does the bulldog know he will not bite?
+- I know the bulldog will not bite. You know he will not bite, but does the bulldog know he will not bite?
 
 - Lincoln withstood the storm of defeat by replacing anguish over an unchangeable past with hope in an uncharted future.
 
-- > Anybody will do for you, but not for me. I must have somebody.
+- Anybody will do for you, but not for me. I must have somebody.
 
-- > But I do not allow myself to suppose that either the Convention or the League have concluded to decide that I am either the greatest or best man in America, but rather they have concluded that it is not best to swap horses while crossing the river, and have further concluded that I am not so poor a horse that they might not make a botch of it in trying to swap.
+- But I do not allow myself to suppose that either the Convention or the League have concluded to decide that I am either the greatest or best man in America, but rather they have concluded that it is not best to swap horses while crossing the river, and have further concluded that I am not so poor a horse that they might not make a botch of it in trying to swap.
 
-- > In this sad world of ours, sorrow comes to all; and, to the young, it comes with bitterest agony, because it takes them unawares. The older have learned to ever expect it.
+- In this sad world of ours, sorrow comes to all; and, to the young, it comes with bitterest agony, because it takes them unawares. The older have learned to ever expect it.
 
-- > public opinion is everything – without it nothing can succeed; with it nothing will fail.
+- public opinion is everything – without it nothing can succeed; with it nothing will fail.
