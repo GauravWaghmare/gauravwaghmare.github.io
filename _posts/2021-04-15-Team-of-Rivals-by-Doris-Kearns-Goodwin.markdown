@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Team of Rivals by Doris Kearns Goodwin"
+category: "books"
 ---
 
 # Team of Rivals: The Political Genius of Abraham Lincoln by Doris Kearns Goodwin
