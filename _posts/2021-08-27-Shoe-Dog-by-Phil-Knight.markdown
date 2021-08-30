@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shoe Dog by Phil Knight"
-cateogry: "books"
+category: "books"
 ---
 
 # Shoe Dog: A Memoir by the Creator of Nike
