@@ -8,33 +8,20 @@ category: "books"
 
 *Find the book on goodreads [here](https://www.goodreads.com/book/show/11205329-team-of-rivals)*
 
-<p>
+
 Doris’s idea of covering the contemporaries of Abraham Lincoln in this biography works wonders and paints a larger complete picture of the long late American president. The book also vividly captures the correspondences between Lincoln and the many army officials during the civil war. One of those army officials is General Ulysses S Grant who went on to become the president of the USA himself. 
-</p>
 
-<p>
 Everything written in this book about all the characters is sourced from personal diaries, letters, first hand written accounts and interviews which makes this narration feel more real. The book also gives good insights into the newly industrialized world of the 19th century when people corresponded using postal mail, presidents travelled by trains, government by the people was still a new idea and the world was much less prosperous than it is today.
-</p>
 
-<p>
 Little is written about Lincoln’s childhood, but whatever is, gives a glimpse of who and why kid Lincoln would grow into. The latter is true for Lincoln’s wartime cabinet - Seward, Chase and Bates as well.
-</p>
 
-<p>
 Abraham was a natural storyteller, who could spellbind people with anecdotes and the analogies he would employ to make his point. His case about America being the first experiment of its kind i.e., a democracy hits home. His interpretation of the Declaration of Independence and his conviction in it was deep and centuries ahead of their time. His emphasis on 'all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness' and his view that a free labour market would help individuals gain 'upward mobility' on the economic ladder form the bedrock of his policies. It is incredibly hard to believe that a white president in the late 19th century would risk the disintegration of the union to end slavery.
-</p>
 
-<p>
 Lincoln kept his enemies closer long before Godfather said so in the Mario Puzo novel. A shrewd politician, he knew that to deliver a full and stable presidential term he would have to take everyone along i.e., factions that hated him and factions that hated each other. Not just for his term, but to achieve victory in the civil war as well. Lincoln’s way of dealing with his adversaries like he does with Chase’s resignations showcases his astute political acumen. Started as an underdog in the presidential nomination race, his ears on the ground, fair luck and clever managerial decisions made him the republican presidential nominee. Widely believed that he would be a week president, he shows everyone who's boss.
-</p>
 
-<p>
 All characters stand out in this book. Governor Seward who accepts his defeat on losing the presidential nomination even though he was the front runner, commits himself to the duties assigned by his president. Edwin Stanton rose above partisan interests and did his duty to the constitution, and Chase does a wonderful job of financing the war while keeping aside his own presidential ambitions. General Grant’s forward push, bias for action   and making his way through internal army politics is exciting. Mary Lincoln also does her job well as the first lady.
-</p>
 
-<p>
 The more than 900 pages long book doesn’t feel long at all, and reads more like a layered war thriller. Not one page makes you lose interest, while Doris’s use of long sentences activates the part of the brain responsible for comprehension. This book is a wonderful account of a ‘magnanimous’ man who walked this planet and a politician the likes of which are endangered these days.
-</p>
 
 ## Favorite quotes
 
