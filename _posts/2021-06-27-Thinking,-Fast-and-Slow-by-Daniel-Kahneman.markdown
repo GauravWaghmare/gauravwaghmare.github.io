@@ -4,7 +4,7 @@ title:  "Thinking, Fast and Slow by Daniel Kahneman"
 category: "books"
 ---
 
-# Thinking, Fast and Slow by Daniel Kahneman
+# Thinking, Fast and Slow
 
 *Find the book on goodreads [here](https://www.goodreads.com/book/show/13062120-thinking-fast-and-slow)
 
