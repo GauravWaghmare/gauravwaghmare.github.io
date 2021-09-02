@@ -3,12 +3,6 @@ layout: post
 title:  "Team of Rivals by Doris Kearns Goodwin"
 category: "books"
 ---
-
-# Team of Rivals: The Political Genius of Abraham Lincoln by Doris Kearns Goodwin
-
-*Find the book on goodreads [here](https://www.goodreads.com/book/show/11205329-team-of-rivals)*
-
-
 Doris’s idea of covering the contemporaries of Abraham Lincoln in this biography works wonders and paints a larger complete picture of the long late American president. The book also vividly captures the correspondences between Lincoln and the many army officials during the civil war. One of those army officials is General Ulysses S Grant who went on to become the president of the USA himself. 
 
 Everything written in this book about all the characters is sourced from personal diaries, letters, first hand written accounts and interviews which makes this narration feel more real. The book also gives good insights into the newly industrialized world of the 19th century when people corresponded using postal mail, presidents travelled by trains, government by the people was still a new idea and the world was much less prosperous than it is today.
@@ -36,3 +30,5 @@ The more than 900 pages long book doesn’t feel long at all, and reads more lik
 - In this sad world of ours, sorrow comes to all; and, to the young, it comes with bitterest agony, because it takes them unawares. The older have learned to ever expect it.
 
 - public opinion is everything – without it nothing can succeed; with it nothing will fail.
+
+*Find the book on goodreads [here](https://www.goodreads.com/book/show/11205329-team-of-rivals)*

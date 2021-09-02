@@ -3,11 +3,6 @@ layout: post
 title:  "Shoe Dog by Phil Knight"
 category: "books"
 ---
-
-# Shoe Dog: A Memoir by the Creator of Nike
-
-*Find the book on goodreads [here](https://www.goodreads.com/book/show/27220736-shoe-dog)*
-
 Phil Knight tells his story of doing what he truly believed in and ultimately creating Nike. The book is a wonderful tale of a young Phil who has this ‘crazy idea’ of selling shoes. Along with his coach Bowerman, he starts the blue ribbon company which would pave the way for Nike, Inc.
 
 The book takes us through all the phases of Phil’s venture and all that he had to go through to beat Adidas in their own game. He indicates clearly that to build something big is never an easy ride. He had to go through a heartbreak, machinations by his Japanese partner, being reported to the FBI for alleged fraud, harassment by the US government on the behest of his competitors, and all the while keeping up with customer’s rising demand and expectations for and from Nike footwear. He along with his colleagues - Bowerman, Johnson, Woodell, Hayes and Strasser were running a very tight ship and veering it frequently to avoid icebergs. Phil also talks about his emotions as he goes through all this, acquiescing that he is a human, and panic and anger are part of the deal.
@@ -42,4 +37,8 @@ The book is inspiring at every page and stands as a testament to the idea that i
 - And those who urge entrepreneurs to never give up? Charlatans. Sometimes you have to give up. Sometimes knowing when to give up, when to try something else, is genius. Giving up doesn’t mean stopping. Don’t ever stop.
 
 - Have faith in yourself, but also have faith in faith. Not faith as others define it. Faith as you define it. Faith as faith defines itself in your heart.
+
+*Find the book on goodreads [here](https://www.goodreads.com/book/show/27220736-shoe-dog)*
+
+
 
