@@ -4,7 +4,7 @@ title:  "Thinking, Fast and Slow by Daniel Kahneman"
 category: "books"
 ---
 This is my fourth book from an Israeli author and he maintains the bar raised by the others, especially Yuval Noah Harari. This book takes you on a satisfying train of revelations where every stop is a deeply hidden bias. All these biases are confirmed by real world studies, which shows how common they are and also tells how they are hidden in plain sight, and we will see how all these biases should be kept in mind while making decisions. With the metric of insightfulness per page skyrocketing, this isn't an easy book to summarize.
- 
+
 In the early chapters of the book, the author, who also happens to be the winner of the Nobel Memorial Prize in Economic Sciences, talks about recency and availability biases. Availability bias is when we assume the probability of an event based on the availability of similar events in our memory. Recency bias is similar with the mental source of the event being the recent past. For example, we would judge flight crashes to be frequent if one had happened in the recent past, even though data would show otherwise - flight crashes are a very rare event.
  
 Then we move to how our mind is biased towards explanations that represent a coherent story. The book also mentions a Linda experiment wherein multiple descriptions (or evidences) are given for the women, and the subjects of the experiment had to choose among multiple options the one that seemed most plausible to them. For example the descriptions were :-
