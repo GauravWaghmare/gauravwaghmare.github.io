@@ -28,9 +28,11 @@ twitter_username: HydrogenHydride
 github_username:  GauravWaghmare
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 show_excerpts: true
 
 # Exclude from processing.
