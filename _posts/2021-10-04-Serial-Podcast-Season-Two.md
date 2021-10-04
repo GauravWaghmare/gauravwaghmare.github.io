@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serial season 2 by the creators of This American Life"
+title:  "Serial Season 2 by the creators of This American Life"
 category: "podcasts"
 ---
 In this season of Serial, Sarah Koenig untangles the dark web of the War on Terror, the American soldiers, the Taliban and the Afghan People. At the centre of the discussion is Sergeant Bowe Bergdahl. As the first season of Serial, Sarah takes us into very interesting details of this equally complicated war, and how war plays out on a personal level in a soldiers mind.
@@ -15,4 +15,4 @@ We come to the politics of it and hear how politicians tried to further their ow
 
 Serial keeps the benchmark high with its second season. I could hear the amount of hard work that went into gathering all the details from government officials, army officials, Bowe, Bowe’s platoonmates and many others. It’s thrilling with all the military terms (like DUSTWUN) and action and adds a humane layer with the war. Do listen if you are interested in geopolitics, internal military affairs and the effect of war on personnel.
 
-*Listen to the podcast on Spotify [here](https://open.spotify.com/episode/23OLRLdyttRqVTZHa9yqhH?si=Dk5gIDEeSLSONY24EQcp8w&dl_branch=1)
+*Listen to the podcast on Spotify [here](https://open.spotify.com/episode/23OLRLdyttRqVTZHa9yqhH?si=Dk5gIDEeSLSONY24EQcp8w&dl_branch=1)*
