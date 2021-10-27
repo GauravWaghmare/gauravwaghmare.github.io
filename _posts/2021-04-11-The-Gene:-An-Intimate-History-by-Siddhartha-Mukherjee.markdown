@@ -17,6 +17,6 @@ Following the discovery of DNA the project to sequence the entire human genome o
 
 The discovery of DNA, its role and the Human Genome Project improved our understanding of the human body and many diseases like cancer and Schizophrenia. As new techniques like CRISPR are developed, a brave new world is unravelled where cure for such diseases is in sight.
 
-The book is interspersed with the author’s own experience and is really hard to put down till the end. It is a must read for not just those in the biology of genetics but also the history.
+The book is interspersed with the author’s own experience and is really hard to put down till the end. It is a must read for not just those interested in the biology of genetics but also the history.
 
 *Find the book on goodreads [here](https://www.goodreads.com/book/show/27276428-the-gene?ac=1&from_search=true&qid=IUEhIVjVu7&rank=2)*
