@@ -3,9 +3,6 @@ layout: post
 title:  "SimCity : Electronic Arts"
 category: "games"
 ---
-
-# Lessons from SimCity
-
 SimCity is an open-ended city-building video game series currently owned by Electronic Arts. 
 
 According to Wikipedia
