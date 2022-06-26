@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "SimCity : Electronic Arts"
+title:  "SimCity by Electronic Arts"
 category: "games"
 ---
-SimCity is an open-ended city-building video game series currently owned by Electronic Arts. 
+SimCity is an open-ended city-building video game series currently owned by Electronic Arts. I started playing SimCity a few months back and found it very interesting in the ways it asks us to develop cities. Zoom out of the game and one can correlate a lot of the lessons from the game to general economics.
 
 According to Wikipedia
 
@@ -15,8 +15,6 @@ According to Wikipedia
 
 > Depending on the title, there may scenarios with city performance-related goals and time limits in which to complete them.
 > 
-
-I started playing SimCity a few months back and found it very interesting in the ways it asks us to develop cities. Zoom out of the game and one can correlate a lot of the lessons from the game to general economics.
 
 ### External Trade
 
